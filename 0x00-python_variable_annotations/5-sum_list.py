@@ -2,7 +2,7 @@
 ''' complex types '''
 
 
-def sum_list(input_list: list[float]) ->:
+def sum_list(input_list: list[float]) -> float:
     ''' fn that sums fkoats in a list '''
     add = 0
     for num in input_list:
