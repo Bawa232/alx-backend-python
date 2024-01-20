@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' type annotations in python ''' 
+''' type annotations in python '''
 
 
 def to_str(n: float) -> str:
