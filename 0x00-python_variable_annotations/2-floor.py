@@ -2,8 +2,9 @@
 ''' python type annotation '''
 
 
-from math import floor
+import math
+
 
 def floor(n: float):
     ''' returns floor of the float '''
-    return floor(n)
+    return math.floor(n)
